@@ -1,1 +1,1 @@
-module github.com/midorigreen/testmod/v1
+module github.com/midorigreen/testmod/v2
